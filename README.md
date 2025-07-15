@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ankit Belbase currently enrolled in Computer Science inPulchowk Campus . I have been coding for more than three years, and my areas of expertise are  machine learning, and deep learning. I have a strong desire to create applications that are impactful, scalable, and intelligent.
+Hello , I'm Ankit Belbase currently enrolled in Computer Science Faculty at Pulchowk Campus . I have been coding for more than three years, and my areas of expertise are Computer Vision and deep learning. I have a strong desire to create applications that are impactful, scalable, and intelligent.
 Deep learning frameworks, computer vision, Java, JavaScript, Node.js, React, Spring Boot, Vue.js, and different database technologies are all part of my technical toolkit. I have a strong background in computer vision and deep learning, having worked with both traditional and contemporary methods and possessing a solid theoretical understanding. I like working on projects of all kinds, from creating user-friendly frontends to creating reliable backend systems and creating complex AI models.
  My interests span physics and mathematics, and I'm currently delving into reinforcement learning and physics-informed neural networks, exploring how physical laws can be embedded into machine learning models.
 ---
